@@ -13,6 +13,8 @@ const root = dirname(File.realpathSync(__filename));
 
     keys.sort();
 
+    const missing = {};
+
     if (File.existsSync(join(root, `missing.json`))) {
         File.unlinkSync(join(root, `missing.json`));
     }
