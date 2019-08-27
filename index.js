@@ -47,7 +47,7 @@ const root = dirname(File.realpathSync(__filename));
             output[local] = {};
 
             for (let j = 0; j < keys.length; j++) {
-                if (resource[keys[j]] === undefined && resource.en[keys[j]]) {
+                if (resource[keys[j]] === undefined && resource.en[keys[j]] === undefined) {
                     missing[keys[j]] = (source[keys[j]] || "").trim();
                 }
 
