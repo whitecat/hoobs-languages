@@ -36,8 +36,6 @@ const root = dirname(File.realpathSync(__filename));
             }
 
             File.appendFileSync(join(root, "lang", `${local}.json`), JSON.stringify(output, null, 4));
-
-            console.log(`Complete '${local}.json'`);
         } else {
             if (File.existsSync(join(root, "lang", `${local}.json`))) {
                 File.unlinkSync(join(root, "lang", `${local}.json`));
