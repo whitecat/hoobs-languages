@@ -13,10 +13,6 @@ const root = dirname(File.realpathSync(__filename));
 
     keys.sort();
 
-    const missing = {
-        en: {}
-    };
-
     if (File.existsSync(join(root, `missing.json`))) {
         File.unlinkSync(join(root, `missing.json`));
     }
@@ -33,8 +29,8 @@ const root = dirname(File.realpathSync(__filename));
 
             output[local] = {};
 
-            for (let i = 0; i < keys.length; i++) {
-                output[local][keys[i]] = source[keys[i]];
+            for (let j = 0; j < keys.length; j++) {
+                output[local][keys[j]] = (source[keys[j]] || "").trim();
             }
 
             File.appendFileSync(join(root, "lang", `${local}.json`), JSON.stringify(output, null, 4));
@@ -45,17 +41,17 @@ const root = dirname(File.realpathSync(__filename));
                 File.unlinkSync(join(root, "lang", `${local}.json`));
             }
 
-            const resource = (await loco.exportLocale(locales[i].code)).en;
+            const resource = (await loco.exportLocale(locales[i].code));
             const output = {};
 
             output[local] = {};
 
-            for (let i = 0; i < keys.length; i++) {
-                if (resource[keys[i]] === undefined) {
-                    missing.en[keys[i]] = source[keys[i]];
+            for (let j = 0; j < keys.length; j++) {
+                if (resource[keys[j]] === undefined && resource.en[keys[j]]) {
+                    missing[keys[j]] = (source[keys[j]] || "").trim();
                 }
 
-                output[local][keys[i]] = resource[keys[i]] || source[keys[i]];
+                output[local][keys[j]] = (resource[keys[j]] || resource.en[keys[j]] || source[keys[j]] || "").trim();
             }
 
             File.appendFileSync(join(root, "lang", `${local}.json`), JSON.stringify(output, null, 4));
