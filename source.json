@@ -269,5 +269,16 @@
     "storm": "Storm",
     "violent_storm": "Heavy Storm",
     "terminal": "Terminal",
-    "donate": "Donate"
+    "donate": "Donate",
+    "dashboard": "Dashboard",
+    "homekit_cant_find": "Apple Home Can't Find Homebridge.",
+    "stay_up_to_date": "Stay up-to-date. Updating HOOBS helps keep your setup running healthy. Try checking for updates from the system menu.",
+    "login_to_update": "Please login as an administrator to check for updates.",
+    "homebridge_service_not_running": "The Homebridge service is not running. Try starting the service. Check the Status screen and if the Homebridge service is not running, click the service menu on the rupper right and click Start Service.",
+    "login_to_fix": "Please login as an administrator to fix.",
+    "dns_cache_stale": "iOS DNS cache has gone stale or gotten misconfigured. Try turning airplane mode on and back off to flush the DNS cache.",
+    "homebridge_service_clash": "The Homebridge service thinks it's paired, but iOS thinks otherwise. Try resetting the connection with the button below. This will delete the persist folder.",
+    "warning": "Warning",
+    "homekit_disconnect": "This will disconnect Homebridge from Apple Home. You will need to re-pair.",
+    "homebridge_stuck": "iOS has gotten your Homebridge username stuck somehow, where it's in the database but inactive. Try regenerating the Homebridge username."
 }
