@@ -280,5 +280,13 @@
     "homebridge_service_clash": "The Homebridge service thinks it's paired, but iOS thinks otherwise. Try resetting the connection with the button below. This will delete the persist folder.",
     "warning": "Warning",
     "homekit_disconnect": "This will disconnect Homebridge from Apple Home. You will need to re-pair.",
-    "homebridge_stuck": "iOS has gotten your Homebridge username stuck somehow, where it's in the database but inactive. Try regenerating the Homebridge username."
+    "homebridge_stuck": "iOS has gotten your Homebridge username stuck somehow, where it's in the database but inactive. Try regenerating the Homebridge username.",
+    "temp_units": "Temperature Units",
+    "temp_units_message": "Set the units you want temprature sensors to display.",
+    "country_code": "Country Code",
+    "country_code_message": "Set the country code to where this device is. This is used for weather forecasts",
+    "postal_code": "Postal Code",
+    "postal_code_message": "Set the postal code to where this device is. This is used for weather forecasts",
+    "celsius": "Celsius",
+    "fahrenheit": "Fahrenheit"
 }

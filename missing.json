@@ -1,15 +1,10 @@
 {
-    "dashboard": "Dashboard",
-    "dns_cache_stale": "iOS DNS cache has gone stale or gotten misconfigured. Try turning airplane mode on and back off to flush the DNS cache.",
-    "donate": "Donate",
-    "homebridge_service_clash": "The Homebridge service thinks it's paired, but iOS thinks otherwise. Try resetting the connection with the button below. This will delete the persist folder.",
-    "homebridge_service_not_running": "The Homebridge service is not running. Try starting the service. Check the Status screen and if the Homebridge service is not running, click the service menu on the rupper right and click Start Service.",
-    "homebridge_stuck": "iOS has gotten your Homebridge username stuck somehow, where it's in the database but inactive. Try regenerating the Homebridge username.",
-    "homekit_cant_find": "Apple Home Can't Find Homebridge.",
-    "homekit_disconnect": "This will disconnect Homebridge from Apple Home. You will need to re-pair.",
-    "login_to_fix": "Please login as an administrator to fix.",
-    "login_to_update": "Please login as an administrator to check for updates.",
-    "stay_up_to_date": "Stay up-to-date. Updating HOOBS helps keep your setup running healthy. Try checking for updates from the system menu.",
-    "terminal": "Terminal",
-    "warning": "Warning"
+    "celsius": "Celsius",
+    "country_code": "Country Code",
+    "country_code_message": "Set the country code to where this device is. This is used for weather forecasts",
+    "fahrenheit": "Fahrenheit",
+    "postal_code": "Postal Code",
+    "postal_code_message": "Set the postal code to where this device is. This is used for weather forecasts",
+    "temp_units": "Temperature Units",
+    "temp_units_message": "Set the units you want temprature sensors to display."
 }
