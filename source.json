@@ -293,5 +293,7 @@
     "remote_support": "Remote Support",
     "support_code": "Support Code",
     "no_accessories": "No Accessories Available",
-    "no_plugins": "No Plugins Installed"
+    "no_plugins": "No Plugins Installed",
+    "file_system": "File System",
+    "used": "Used"
 }
