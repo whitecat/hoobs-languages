@@ -1,5 +1,7 @@
 {
     "disconnect": "Disconnect",
+    "no_accessories": "No Accessories Available",
+    "no_plugins": "No Plugins Installed",
     "remote_support": "Remote Support",
     "support_code": "Support Code"
 }
