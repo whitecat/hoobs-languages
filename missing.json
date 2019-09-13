@@ -1,10 +1,5 @@
 {
-    "celsius": "Celsius",
-    "country_code": "Country Code",
-    "country_code_message": "Set the country code to where this device is. This is used for weather forecasts",
-    "fahrenheit": "Fahrenheit",
-    "postal_code": "Postal Code",
-    "postal_code_message": "Set the postal code to where this device is. This is used for weather forecasts",
-    "temp_units": "Temperature Units",
-    "temp_units_message": "Set the units you want temprature sensors to display."
+    "disconnect": "Disconnect",
+    "remote_support": "Remote Support",
+    "support_code": "Support Code"
 }

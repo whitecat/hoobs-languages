@@ -288,5 +288,8 @@
     "postal_code": "Postal Code",
     "postal_code_message": "Set the postal code to where this device is. This is used for weather forecasts",
     "celsius": "Celsius",
-    "fahrenheit": "Fahrenheit"
+    "fahrenheit": "Fahrenheit",
+    "disconnect": "Disconnect",
+    "remote_support": "Remote Support",
+    "support_code": "Support Code"
 }
