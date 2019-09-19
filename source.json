@@ -299,5 +299,9 @@
     "home": "Home",
     "away": "Away",
     "night": "Night",
-    "off": "Off"
+    "off": "Off",
+    "occupancy": "Occupancy",
+    "present": "Present",
+    "detected": "Detected",
+    "no_motion": "No Motion"
 }
