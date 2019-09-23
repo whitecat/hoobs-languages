@@ -303,5 +303,9 @@
     "occupancy": "Occupancy",
     "present": "Present",
     "detected": "Detected",
-    "no_motion": "No Motion"
+    "no_motion": "No Motion",
+    "rocket": "Rocket",
+    "rocket_dark": "Rocket Dark",
+    "rocket_light": "Rocket Light",
+    "rocket_version": "Rocket Version"
 }
