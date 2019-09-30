@@ -309,5 +309,8 @@
     "rocket_light": "Rocket Light",
     "rocket_version": "Rocket Version",
     "hidden": "Hidden",
-    "remember_me": "Remember Me"
+    "remember_me": "Remember Me",
+    "add_favorites": "Add To Favorites",
+    "remove_accessory": "Remove From Room",
+    "hide_accessory": "Hide Accessory"
 }
