@@ -175,7 +175,6 @@
     "update_available": "Update Available",
     "invalid_json": "Invalid JSON.",
     "guided_config": "Guided Configuration",
-    "advanced_config": "Advanced Configuration",
     "category_climate": "Climate",
     "category_hubs": "Hubs & Bridges",
     "category_lighting": "Lighting",
@@ -312,5 +311,7 @@
     "remember_me": "Remember Me",
     "add_favorites": "Add To Favorites",
     "remove_accessory": "Remove From Room",
-    "hide_accessory": "Hide Accessory"
+    "hide_accessory": "Hide Accessory",
+    "accessory": "Accessory",
+    "advanced": "Advanced"
 }
