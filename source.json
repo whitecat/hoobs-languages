@@ -313,5 +313,7 @@
     "remove_accessory": "Remove From Room",
     "hide_accessory": "Hide Accessory",
     "accessory": "Accessory",
-    "advanced": "Advanced"
+    "advanced": "Advanced",
+    "current": "Current",
+    "max": "Max"
 }
