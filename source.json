@@ -141,7 +141,6 @@
     "update": "Update",
     "updated": "Up to Date",
     "uptime": "Uptime",
-    "user_type": "User Type",
     "user": "User",
     "username_required": "Username is required.",
     "username": "Username",
@@ -316,5 +315,6 @@
     "current": "Current",
     "max": "Max",
     "setup_user_account": "To start you need to setup a user account.",
-    "welcome_message_rocket": "Welcome to Rocket"
+    "welcome_message_rocket": "Welcome to Rocket",
+    "terminal_access": "Terminal Access"
 }
