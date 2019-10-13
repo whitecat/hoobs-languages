@@ -316,5 +316,6 @@
     "max": "Max",
     "setup_user_account": "To start you need to setup a user account.",
     "welcome_message_rocket": "Welcome to Rocket",
-    "terminal_access": "Terminal Access"
+    "terminal_access": "Terminal Access",
+    "done": "Done"
 }
