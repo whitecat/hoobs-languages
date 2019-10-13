@@ -148,7 +148,6 @@
     "users": "Users",
     "value": "Value",
     "welcome_message_hoobs": "Welcome to HOOBS.",
-    "welcome_message": "Welcome to Homebridge.",
     "welcome": "Welcome",
     "yes": "Yes",
     "ok": "OK",
@@ -159,7 +158,7 @@
     "custom": "Custom",
     "hoobs_version": "HOOBS Version",
     "online_help": "Online Help",
-    "online_help_message": "The best place to get help with HOOBS is online. We have many step-by-step guides that can help troubleshoot any issue you may have with HOOBS.",
+    "online_help_message": "The best place to get help is online. We have many step-by-step guides that can help troubleshoot most issues.",
     "chat_with_us": "Chat With Us",
     "common_issues": "Common Issues",
     "clear_cache": "Clear Cache",
@@ -271,7 +270,7 @@
     "donate": "Donate",
     "dashboard": "Dashboard",
     "homekit_cant_find": "Apple Home Can't Find Homebridge.",
-    "stay_up_to_date": "Stay up-to-date. Updating HOOBS helps keep your setup running healthy. Try checking for updates from the system menu.",
+    "stay_up_to_date": "Stay up-to-date. Updating helps keep your setup running healthy. Try checking for updates from the system menu.",
     "login_to_update": "Please login as an administrator to check for updates.",
     "homebridge_service_not_running": "The Homebridge service is not running. Try starting the service. Check the Status screen and if the Homebridge service is not running, click the service menu on the rupper right and click Start Service.",
     "login_to_fix": "Please login as an administrator to fix.",
@@ -315,5 +314,7 @@
     "accessory": "Accessory",
     "advanced": "Advanced",
     "current": "Current",
-    "max": "Max"
+    "max": "Max",
+    "setup_user_account": "To start you need to setup a user account.",
+    "welcome_message_rocket": "Welcome to Rocket"
 }
