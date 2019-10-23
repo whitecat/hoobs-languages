@@ -49,6 +49,7 @@
         "cold": "Zimno",
         "common_issues": "Powszechne problemy",
         "config": "Konfiguracja",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Ścieżka do pliku konfiguracyjnego",
         "contact": "Kontakt",
         "country_code": "Kod pocztowy",

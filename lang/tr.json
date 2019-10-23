@@ -49,6 +49,7 @@
         "cold": "Soğuk",
         "common_issues": "Yaygın Sorunlar",
         "config": "Ayarlar",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Ayar Yolu",
         "contact": "İletişim",
         "country_code": "Ülke kodu",

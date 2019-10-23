@@ -49,6 +49,7 @@
         "cold": "Холодно",
         "common_issues": "Общие вопросы",
         "config": "Конфигурация",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Путь к конфигурации",
         "contact": "Контакт",
         "country_code": "Код страны",

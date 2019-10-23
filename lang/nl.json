@@ -49,6 +49,7 @@
         "cold": "Verkoudheid",
         "common_issues": "Gebruikelijke problemen",
         "config": "Configuratie",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Configuratiepad",
         "contact": "Contact",
         "country_code": "Landcode",

@@ -49,6 +49,7 @@
         "cold": "Froid",
         "common_issues": "Problèmes communs",
         "config": "Configuration",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Chemin d'accès du fichier de configuration",
         "contact": "Contact",
         "country_code": "Code Pays",

@@ -49,6 +49,7 @@
         "cold": "Kall",
         "common_issues": "Vanliga problem",
         "config": "Konfiguration",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "konfiguration Path",
         "contact": "Kontakta",
         "country_code": "Landskod",

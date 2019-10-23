@@ -49,6 +49,7 @@
         "cold": "Cold",
         "common_issues": "Common Issues",
         "config": "Configuration",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Configuration Path",
         "contact": "Contact",
         "country_code": "Country Code",

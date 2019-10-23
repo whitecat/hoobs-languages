@@ -49,6 +49,7 @@
         "cold": "Chladno",
         "common_issues": "Běžné problémy",
         "config": "Konfigurace",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Cesta ke konfiguraci",
         "contact": "Kontakt",
         "country_code": "Kód země",

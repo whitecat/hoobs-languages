@@ -49,6 +49,7 @@
         "cold": "Cold",
         "common_issues": "Probleme comune",
         "config": "Configurare",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Cale configurare",
         "contact": "Contact",
         "country_code": "Codul tarii",

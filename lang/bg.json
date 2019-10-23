@@ -49,6 +49,7 @@
         "cold": "Студ",
         "common_issues": "Чести проблеми",
         "config": "Конфигурация",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Пътека на Конфигурацията",
         "contact": "Контакт",
         "country_code": "Код на държавата",

@@ -49,6 +49,7 @@
         "cold": "Κρύο",
         "common_issues": "Κοινά θέματα",
         "config": "Ρύθμιση",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Διαδρομή Ρυθμίσεων",
         "contact": "Επικοινωνία",
         "country_code": "Κωδικός χώρας",

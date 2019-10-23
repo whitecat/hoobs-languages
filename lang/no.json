@@ -49,6 +49,7 @@
         "cold": "Kald",
         "common_issues": "vanlige problemer",
         "config": "Konfigurasjon",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Konfigurasjonssti",
         "contact": "Kontakt",
         "country_code": "Landskode",

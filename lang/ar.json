@@ -49,6 +49,7 @@
         "cold": "البرد",
         "common_issues": "مشاكل شائعة",
         "config": "ترتيب",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "مسار التكوين",
         "contact": "اتصل",
         "country_code": "الرقم الدولي",

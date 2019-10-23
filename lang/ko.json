@@ -49,6 +49,7 @@
         "cold": "춥다",
         "common_issues": "일반적인 문제",
         "config": "구성",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "구성 경로",
         "contact": "접촉",
         "country_code": "국가 코드",

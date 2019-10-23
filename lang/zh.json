@@ -49,6 +49,7 @@
         "cold": "冷",
         "common_issues": "常见问题",
         "config": "配置",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "配置路徑",
         "contact": "聯絡",
         "country_code": "国家代码",

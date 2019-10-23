@@ -49,6 +49,7 @@
         "cold": "קר",
         "common_issues": "בעיות נפוצות",
         "config": "הגדרות",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "נתיב הגדרות",
         "contact": "צור קשר",
         "country_code": "קוד מדינה",

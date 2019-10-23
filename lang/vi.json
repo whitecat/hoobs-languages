@@ -49,6 +49,7 @@
         "cold": "Lạnh",
         "common_issues": "Các vấn đề chung",
         "config": "Cấu hình",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Đường dẫn cấu hình",
         "contact": "Liên hệ",
         "country_code": "Mã quốc gia",

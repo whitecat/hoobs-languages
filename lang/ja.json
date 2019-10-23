@@ -49,6 +49,7 @@
         "cold": "コールド",
         "common_issues": "一般的な問題",
         "config": "設定",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "構成パス",
         "contact": "接触",
         "country_code": "国コード",

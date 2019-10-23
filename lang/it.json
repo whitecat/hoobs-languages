@@ -49,6 +49,7 @@
         "cold": "Freddo",
         "common_issues": "Problemi comuni",
         "config": "Configurazione",
+        "config_reboot_confirm": "You need to reboot for these changes to take effect.",
         "configuration_path": "Percorso configurazione",
         "contact": "Contatto",
         "country_code": "Prefisso internazionale",
