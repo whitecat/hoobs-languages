@@ -330,5 +330,9 @@
     "polling_seconds_invalid": "Refresh interval is invalid. It must be an integer between 1 second and 30 minutes.",
     "config_reboot_confirm": "You need to reboot for these changes to take effect.",
     "factory_reset": "Factory Reset",
-    "factory_reset_message": "This will remove all plugins, configurations and settings."
+    "factory_reset_message": "This will remove all plugins, configurations and settings.",
+    "restore": "Restore",
+    "restore_message": "Select a system backup to restore the system to a previous state.",
+    "restore_warning": "Restoring the system will delete your current configuration.",
+    "select_backup": "Select Backup"
 }
