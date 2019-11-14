@@ -338,5 +338,6 @@
     "longitude": "Longitude",
     "longitude_message": "Set the longitude to where this device is. This is used for weather forecasts",
     "latitude": "Latitude",
-    "latitude_message": "Set the latitude to where this device is. This is used for weather forecasts"
+    "latitude_message": "Set the latitude to where this device is. This is used for weather forecasts",
+    "operating_system": "Operating System"
 }
