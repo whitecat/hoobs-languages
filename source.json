@@ -19,7 +19,6 @@
     "battery": "Battery",
     "bridge_name": "Bridge Name",
     "bridge_settings_message": "This section identifies Homebridge on the system and in Apple Home.",
-    "bridge_settings": "HOOBS Bridge Settings",
     "browse_packages": "Browse Packages",
     "cancel": "Cancel",
     "config": "Configuration",
