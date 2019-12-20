@@ -342,5 +342,6 @@
     "edit_dashboard": "Edit Dashboard",
     "room_name": "Room Name",
     "room_name_message": "Define the name of your room.",
-    "whats_new": "What's New"
+    "whats_new": "What's New",
+    "restarting_service": "Restarting Service"
 }
