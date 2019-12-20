@@ -237,6 +237,8 @@
         "rocket_dark": "Rocket Tmavý",
         "rocket_light": "Rocket Světlý",
         "rocket_version": "Verze Rocket",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "Nastavení místnosti",
         "room_settings_message": "Tato část definuje místnost.",
         "running": "Běží",
@@ -339,6 +341,7 @@
         "welcome": "Vítejte",
         "welcome_message_hoobs": "Vítejte v HOOBS 3.",
         "welcome_message_rocket": "Vítejte v Rocket",
+        "whats_new": "What's New",
         "windy": "Větrno",
         "yes": "Ano"
     }

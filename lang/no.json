@@ -237,6 +237,8 @@
         "rocket_dark": "Mørk Rocket",
         "rocket_light": "Lys Rocket",
         "rocket_version": "Rocket versjon",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "Rominnstillinger",
         "room_settings_message": "Denne delen definerer rommet ditt.",
         "running": "Kjører",
@@ -339,6 +341,7 @@
         "welcome": "Velkommen",
         "welcome_message_hoobs": "Velkommen til HOOBS 3.",
         "welcome_message_rocket": "Welcome to Rocket",
+        "whats_new": "What's New",
         "windy": "Windy",
         "yes": "Ja"
     }

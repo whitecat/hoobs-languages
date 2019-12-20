@@ -237,6 +237,8 @@
         "rocket_dark": "Intuneric Rocket",
         "rocket_light": "Usoara Rocket",
         "rocket_version": "Versiune Rocket",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "Setari camera",
         "room_settings_message": "Aceasta sectiune defineste camera.",
         "running": "Functioneaza",
@@ -339,6 +341,7 @@
         "welcome": "Salut",
         "welcome_message_hoobs": "Salut! HOOBS 3.",
         "welcome_message_rocket": "Welcome to Rocket",
+        "whats_new": "What's New",
         "windy": "Windy",
         "yes": "da"
     }

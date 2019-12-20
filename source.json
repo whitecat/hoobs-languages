@@ -339,5 +339,8 @@
     "latitude": "Latitude",
     "latitude_message": "Set the latitude to where this device is. This is used for weather forecasts",
     "operating_system": "Operating System",
-    "edit_dashboard": "Edit Dashboard"
+    "edit_dashboard": "Edit Dashboard",
+    "room_name": "Room Name",
+    "room_name_message": "Define the name of your room.",
+    "whats_new": "What's New"
 }

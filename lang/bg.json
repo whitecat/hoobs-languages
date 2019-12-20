@@ -237,6 +237,8 @@
         "rocket_dark": "Rocket Тъмен",
         "rocket_light": "Rocket Светъл",
         "rocket_version": "Версия Rocket",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "Настройки за стаята",
         "room_settings_message": "Тази секция определя вашите стаи.",
         "running": "Работи",
@@ -339,6 +341,7 @@
         "welcome": "Добре дошли",
         "welcome_message_hoobs": "Добре дошли в HOOBS 3.",
         "welcome_message_rocket": "Welcome to Rocket",
+        "whats_new": "What's New",
         "windy": "Ветровит",
         "yes": "Да"
     }

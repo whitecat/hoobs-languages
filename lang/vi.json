@@ -237,6 +237,8 @@
         "rocket_dark": "Rocket chế độ tối",
         "rocket_light": "Rocket chế độ sáng",
         "rocket_version": "Phiên bản Rocket",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "Cấu hình phòng",
         "room_settings_message": "Phần này định dạng phòng bạn.",
         "running": "Đang chạy",
@@ -339,6 +341,7 @@
         "welcome": "Chào mừng",
         "welcome_message_hoobs": "Chào mừng bạn đến với HOOBS 3.",
         "welcome_message_rocket": "Welcome to Rocket",
+        "whats_new": "What's New",
         "windy": "Gió",
         "yes": "Có"
     }

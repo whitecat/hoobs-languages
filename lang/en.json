@@ -237,6 +237,8 @@
         "rocket_dark": "Rocket Dark",
         "rocket_light": "Rocket Light",
         "rocket_version": "Rocket Version",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "Room Settings",
         "room_settings_message": "This section defines your room.",
         "running": "Running",
@@ -339,6 +341,7 @@
         "welcome": "Welcome",
         "welcome_message_hoobs": "Welcome to HOOBS.",
         "welcome_message_rocket": "Welcome to Rocket",
+        "whats_new": "What's New",
         "windy": "Windy",
         "yes": "Yes"
     }

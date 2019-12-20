@@ -237,6 +237,8 @@
         "rocket_dark": "Rocket escuro",
         "rocket_light": "Rocket Luz",
         "rocket_version": "versão Rocket",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "Configurações do quarto",
         "room_settings_message": "Esta seção define seu quarto.",
         "running": "Corrida",
@@ -339,6 +341,7 @@
         "welcome": "Bem-vindo",
         "welcome_message_hoobs": "Bem-vindo ao HOOBS 3",
         "welcome_message_rocket": "Welcome to Rocket",
+        "whats_new": "What's New",
         "windy": "Ventoso",
         "yes": "Sim"
     }

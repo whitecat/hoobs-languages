@@ -237,6 +237,8 @@
         "rocket_dark": "Rocket Foncé",
         "rocket_light": "Rocket Éclairé",
         "rocket_version": "Version d'Rocket",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "Configuration des pièces",
         "room_settings_message": "Cette partie permet de configurer vos pièces.",
         "running": "En cours",
@@ -339,6 +341,7 @@
         "welcome": "Bienvenue",
         "welcome_message_hoobs": "Bienvenue sur HOOBS 3.",
         "welcome_message_rocket": "Welcome to Rocket",
+        "whats_new": "What's New",
         "windy": "Venteux",
         "yes": "Oui"
     }

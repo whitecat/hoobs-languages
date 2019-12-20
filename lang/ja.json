@@ -237,6 +237,8 @@
         "rocket_dark": "Rocketダーク",
         "rocket_light": "Rocketライト",
         "rocket_version": "Rocketバージョン",
+        "room_name": "Room Name",
+        "room_name_message": "Define the name of your room.",
         "room_settings": "ルームの設定",
         "room_settings_message": "このセクションでは、あなたの部屋を定義します。",
         "running": "ランニング",
@@ -339,6 +341,7 @@
         "welcome": "ようこそ",
         "welcome_message_hoobs": "HOOBS 3へようこそ。",
         "welcome_message_rocket": "Welcome to Rocket",
+        "whats_new": "What's New",
         "windy": "風の吹きます",
         "yes": "はい"
     }
