@@ -188,7 +188,7 @@
         "no_plugins": "Nessun pacchetto installato",
         "no_readme": "Questo pacchetto non contiene LEGGIMI.",
         "no_results": "Nessun risultato",
-        "node_version": "Node Version",
+        "node_version": "Versione di NodeJS",
         "occupancy": "Rilevamento",
         "off": "Spento",
         "ok": "Ok",
