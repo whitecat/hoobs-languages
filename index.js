@@ -3,7 +3,7 @@ const File = require("fs");
 
 const { dirname, join } = require("path");
 
-const loco = new Loco("5pxDtjXTzMLg3tFZ3EdDTEslro-AjMyBC");
+const loco = new Loco("...");
 const root = dirname(File.realpathSync(__filename));
 
 (async () => {
