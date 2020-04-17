@@ -344,5 +344,6 @@
     "room_name_message": "Define the name of your room.",
     "whats_new": "What's New",
     "restarting_service": "Restarting Service",
-    "node_version": "Node Version"
+    "node_version": "Node Version",
+    "shutdown_device": "Shutdown"
 }
